@@ -1,6 +1,6 @@
 # React Practice
 
-This repository contains practice projects for learning and experimenting with React. Below is a brief description of each project included in this repository:
+This repository contains practice projects for learning and experimenting with React and Vite. Below is a brief description of each project included in this repository:
 
 ## Projects
 
